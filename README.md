@@ -9,10 +9,10 @@
 
 3. Install dependencies
 
-# Backend dependencies
+Backend dependencies
 <pre lang="markdown">composer install</pre>
 
-# Frontend dependencies
+Frontend dependencies
  <pre lang="markdown">npm installl</pre>
 
 4. Start laravel
